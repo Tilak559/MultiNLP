@@ -132,20 +132,12 @@ The `main.py` script is used for training the model with a limited number of ite
 - **Batch Size**: Currently set to 1. Adjust it in the `train_dataloader` initialization in `main` to fit your system's memory.
 - **Learning Rate**: Set to `1e-5` in `main.py`. You may experiment with other values for optimal performance.
 
-## Configuring Hyperparameters
-
-Hyperparameters such as learning rate, batch size, and the number of training iterations can be customized in the `main.py` script. For example:
-
-```python
-optimizer = torch.optim.Adam(model.parameters(), lr=1e-5)  # Adjust learning rate here
-```
-
 ## Blog
 
 [Building a Multi-Task NLP Model for Real-World Applications](https://medium.com/@tilak559/building-a-multi-task-nlp-model-for-real-world-applications-95d6b5dd1d17)
 
 ## Acknowledgments
 
-- **Transformers Library**: [Hugging Face Transformers](https://github.com/huggingface/transformers) for pre-trained models and tokenizers.
+- **Transformers Library**: [Hugging Face Transformers](https://huggingface.co) for pre-trained models and tokenizers.
 - **Yelp Dataset**: [Yelp Open Dataset](https://www.yelp.com/dataset) for review and business data.
 
