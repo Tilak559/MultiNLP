@@ -1,0 +1,120 @@
+INFO:root:Iteration 1, Loss: 1.486818790435791, Category Loss: 1.698608160018921, Sentiment Loss: 0.9926437139511108
+INFO:root:Category Accuracy: 3.12%, Sentiment Accuracy: 81.25%
+INFO:root:Iteration 2, Loss: 1.5742828845977783, Category Loss: 1.7967805862426758, Sentiment Loss: 1.0551215410232544
+INFO:root:Category Accuracy: 1.56%, Sentiment Accuracy: 65.62%
+INFO:root:Iteration 3, Loss: 1.6073881387710571, Category Loss: 1.877909779548645, Sentiment Loss: 0.9761709570884705
+INFO:root:Category Accuracy: 1.04%, Sentiment Accuracy: 63.54%
+INFO:root:Iteration 4, Loss: 1.6300346851348877, Category Loss: 1.9052650928497314, Sentiment Loss: 0.987830400466919
+INFO:root:Category Accuracy: 0.78%, Sentiment Accuracy: 64.84%
+INFO:root:Iteration 5, Loss: 1.4415314197540283, Category Loss: 1.6640244722366333, Sentiment Loss: 0.9223812818527222
+INFO:root:Category Accuracy: 0.62%, Sentiment Accuracy: 65.62%
+INFO:root:Iteration 6, Loss: 1.7171859741210938, Category Loss: 2.0467822551727295, Sentiment Loss: 0.9481276273727417
+INFO:root:Category Accuracy: 1.04%, Sentiment Accuracy: 64.58%
+INFO:root:Iteration 7, Loss: 1.4994666576385498, Category Loss: 1.7679682970046997, Sentiment Loss: 0.8729625940322876
+INFO:root:Category Accuracy: 0.89%, Sentiment Accuracy: 66.07%
+INFO:root:Iteration 8, Loss: 1.4288674592971802, Category Loss: 1.6586519479751587, Sentiment Loss: 0.8927033543586731
+INFO:root:Category Accuracy: 1.56%, Sentiment Accuracy: 66.80%
+INFO:root:Iteration 9, Loss: 1.5062761306762695, Category Loss: 1.7613651752471924, Sentiment Loss: 0.9110686779022217
+INFO:root:Category Accuracy: 2.08%, Sentiment Accuracy: 66.32%
+INFO:root:Iteration 10, Loss: 1.4541034698486328, Category Loss: 1.7183266878128052, Sentiment Loss: 0.8375827670097351
+INFO:root:Category Accuracy: 3.75%, Sentiment Accuracy: 66.88%
+INFO:root:Iteration 11, Loss: 1.4245301485061646, Category Loss: 1.7007455825805664, Sentiment Loss: 0.7800276875495911
+INFO:root:Category Accuracy: 5.11%, Sentiment Accuracy: 67.90%
+INFO:root:Iteration 12, Loss: 1.4275614023208618, Category Loss: 1.6599997282028198, Sentiment Loss: 0.8852053284645081
+INFO:root:Category Accuracy: 6.51%, Sentiment Accuracy: 67.71%
+INFO:root:Iteration 13, Loss: 1.5235340595245361, Category Loss: 1.802437424659729, Sentiment Loss: 0.8727592825889587
+INFO:root:Category Accuracy: 7.45%, Sentiment Accuracy: 67.31%
+INFO:root:Iteration 14, Loss: 1.3212023973464966, Category Loss: 1.558703064918518, Sentiment Loss: 0.7670341730117798
+INFO:root:Category Accuracy: 9.82%, Sentiment Accuracy: 67.86%
+INFO:root:Iteration 15, Loss: 1.3638193607330322, Category Loss: 1.624292254447937, Sentiment Loss: 0.7560490965843201
+INFO:root:Category Accuracy: 13.54%, Sentiment Accuracy: 68.54%
+INFO:root:Iteration 16, Loss: 1.2895418405532837, Category Loss: 1.5338679552078247, Sentiment Loss: 0.7194474339485168
+INFO:root:Category Accuracy: 16.99%, Sentiment Accuracy: 69.34%
+INFO:root:Iteration 17, Loss: 1.3726636171340942, Category Loss: 1.6421966552734375, Sentiment Loss: 0.74375319480896
+INFO:root:Category Accuracy: 20.59%, Sentiment Accuracy: 69.85%
+INFO:root:Iteration 18, Loss: 1.292797327041626, Category Loss: 1.4875648021697998, Sentiment Loss: 0.8383402228355408
+INFO:root:Category Accuracy: 24.31%, Sentiment Accuracy: 69.62%
+INFO:root:Iteration 19, Loss: 1.2621737718582153, Category Loss: 1.5552542209625244, Sentiment Loss: 0.5783196687698364
+INFO:root:Category Accuracy: 27.63%, Sentiment Accuracy: 70.56%
+INFO:root:Iteration 20, Loss: 1.5535756349563599, Category Loss: 1.8908413648605347, Sentiment Loss: 0.7666223645210266
+INFO:root:Category Accuracy: 29.84%, Sentiment Accuracy: 70.62%
+INFO:root:Iteration 21, Loss: 1.2485437393188477, Category Loss: 1.4103679656982422, Sentiment Loss: 0.8709537982940674
+INFO:root:Category Accuracy: 32.44%, Sentiment Accuracy: 70.24%
+INFO:root:Iteration 22, Loss: 1.1548885107040405, Category Loss: 1.3645970821380615, Sentiment Loss: 0.6655685901641846
+INFO:root:Category Accuracy: 34.80%, Sentiment Accuracy: 70.60%
+INFO:root:Iteration 23, Loss: 1.5660061836242676, Category Loss: 1.8823896646499634, Sentiment Loss: 0.827778160572052
+INFO:root:Category Accuracy: 36.82%, Sentiment Accuracy: 70.38%
+INFO:root:Iteration 24, Loss: 1.180721640586853, Category Loss: 1.3449151515960693, Sentiment Loss: 0.7976036667823792
+INFO:root:Category Accuracy: 38.80%, Sentiment Accuracy: 70.31%
+INFO:root:Iteration 25, Loss: 1.1628905534744263, Category Loss: 1.3612979650497437, Sentiment Loss: 0.6999399065971375
+INFO:root:Category Accuracy: 40.88%, Sentiment Accuracy: 70.50%
+INFO:root:Iteration 26, Loss: 1.1472936868667603, Category Loss: 1.3057037591934204, Sentiment Loss: 0.77767014503479
+INFO:root:Category Accuracy: 42.43%, Sentiment Accuracy: 70.43%
+INFO:root:Iteration 27, Loss: 1.1540580987930298, Category Loss: 1.2514584064483643, Sentiment Loss: 0.9267908930778503
+INFO:root:Category Accuracy: 44.10%, Sentiment Accuracy: 70.14%
+INFO:root:Iteration 28, Loss: 1.1159336566925049, Category Loss: 1.201093077659607, Sentiment Loss: 0.9172282814979553
+INFO:root:Category Accuracy: 45.65%, Sentiment Accuracy: 69.75%
+INFO:root:Iteration 29, Loss: 1.6073957681655884, Category Loss: 1.9450080394744873, Sentiment Loss: 0.8196337819099426
+INFO:root:Category Accuracy: 46.88%, Sentiment Accuracy: 69.83%
+INFO:root:Iteration 30, Loss: 1.4922162294387817, Category Loss: 1.7936933040618896, Sentiment Loss: 0.7887697219848633
+INFO:root:Category Accuracy: 47.29%, Sentiment Accuracy: 69.79%
+INFO:root:Iteration 31, Loss: 1.1152764558792114, Category Loss: 1.1843550205230713, Sentiment Loss: 0.9540932178497314
+INFO:root:Category Accuracy: 47.58%, Sentiment Accuracy: 69.35%
+INFO:root:Iteration 32, Loss: 1.0624840259552002, Category Loss: 1.1329530477523804, Sentiment Loss: 0.8980562090873718
+INFO:root:Category Accuracy: 47.66%, Sentiment Accuracy: 69.14%
+INFO:root:Iteration 33, Loss: 1.3286622762680054, Category Loss: 1.5990207195281982, Sentiment Loss: 0.6978259682655334
+INFO:root:Category Accuracy: 47.63%, Sentiment Accuracy: 69.41%
+INFO:root:Iteration 34, Loss: 1.5504913330078125, Category Loss: 1.9044485092163086, Sentiment Loss: 0.7245911955833435
+INFO:root:Category Accuracy: 47.79%, Sentiment Accuracy: 69.58%
+INFO:root:Iteration 35, Loss: 1.6882869005203247, Category Loss: 1.9994841814041138, Sentiment Loss: 0.9621599912643433
+INFO:root:Category Accuracy: 47.59%, Sentiment Accuracy: 69.46%
+INFO:root:Iteration 36, Loss: 1.0231835842132568, Category Loss: 1.080509901046753, Sentiment Loss: 0.8894223570823669
+INFO:root:Category Accuracy: 47.31%, Sentiment Accuracy: 69.18%
+INFO:root:Iteration 37, Loss: 1.3532308340072632, Category Loss: 1.6434431076049805, Sentiment Loss: 0.6760686635971069
+INFO:root:Category Accuracy: 47.30%, Sentiment Accuracy: 69.34%
+INFO:root:Iteration 38, Loss: 1.016158103942871, Category Loss: 1.0892329216003418, Sentiment Loss: 0.8456502556800842
+INFO:root:Category Accuracy: 47.53%, Sentiment Accuracy: 69.16%
+INFO:root:Iteration 39, Loss: 0.9371383190155029, Category Loss: 1.017646074295044, Sentiment Loss: 0.749286949634552
+INFO:root:Category Accuracy: 48.00%, Sentiment Accuracy: 69.23%
+INFO:root:Iteration 40, Loss: 2.2864625453948975, Category Loss: 2.935487747192383, Sentiment Loss: 0.7720708847045898
+INFO:root:Category Accuracy: 48.75%, Sentiment Accuracy: 69.22%
+INFO:root:Iteration 41, Loss: 1.0869603157043457, Category Loss: 1.2145122289657593, Sentiment Loss: 0.789339005947113
+INFO:root:Category Accuracy: 49.39%, Sentiment Accuracy: 69.13%
+INFO:root:Iteration 42, Loss: 1.4581722021102905, Category Loss: 1.737082839012146, Sentiment Loss: 0.8073806166648865
+INFO:root:Category Accuracy: 49.93%, Sentiment Accuracy: 69.20%
+INFO:root:Iteration 43, Loss: 1.3399962186813354, Category Loss: 1.5843088626861572, Sentiment Loss: 0.7699335813522339
+INFO:root:Category Accuracy: 50.58%, Sentiment Accuracy: 69.19%
+INFO:root:Iteration 44, Loss: 1.0063647031784058, Category Loss: 1.065230131149292, Sentiment Loss: 0.869012176990509
+INFO:root:Category Accuracy: 51.28%, Sentiment Accuracy: 69.03%
+INFO:root:Iteration 45, Loss: 2.3446991443634033, Category Loss: 3.048647165298462, Sentiment Loss: 0.7021540999412537
+INFO:root:Category Accuracy: 51.94%, Sentiment Accuracy: 69.10%
+INFO:root:Iteration 46, Loss: 1.8304424285888672, Category Loss: 2.3657662868499756, Sentiment Loss: 0.5813533067703247
+INFO:root:Category Accuracy: 52.58%, Sentiment Accuracy: 69.29%
+INFO:root:Iteration 47, Loss: 1.9160552024841309, Category Loss: 2.4790356159210205, Sentiment Loss: 0.6024346351623535
+INFO:root:Category Accuracy: 53.26%, Sentiment Accuracy: 69.61%
+INFO:root:Iteration 48, Loss: 1.1049890518188477, Category Loss: 1.1807225942611694, Sentiment Loss: 0.9282776713371277
+INFO:root:Category Accuracy: 54.10%, Sentiment Accuracy: 69.40%
+INFO:root:Iteration 49, Loss: 0.9705573320388794, Category Loss: 1.0563346147537231, Sentiment Loss: 0.7704103589057922
+INFO:root:Category Accuracy: 54.78%, Sentiment Accuracy: 69.32%
+INFO:root:Iteration 50, Loss: 1.1627709865570068, Category Loss: 1.2723643779754639, Sentiment Loss: 0.9070529937744141
+INFO:root:Category Accuracy: 55.44%, Sentiment Accuracy: 69.06%
+INFO:root:Iteration 51, Loss: 2.0767717361450195, Category Loss: 2.6225664615631104, Sentiment Loss: 0.8032508492469788
+INFO:root:Category Accuracy: 56.00%, Sentiment Accuracy: 69.00%
+INFO:root:Iteration 52, Loss: 1.4209704399108887, Category Loss: 1.7152235507965088, Sentiment Loss: 0.7343800067901611
+INFO:root:Category Accuracy: 56.43%, Sentiment Accuracy: 68.99%
+INFO:root:Iteration 53, Loss: 1.0089060068130493, Category Loss: 1.1658881902694702, Sentiment Loss: 0.6426141858100891
+INFO:root:Category Accuracy: 57.13%, Sentiment Accuracy: 69.16%
+INFO:root:Iteration 54, Loss: 1.6020201444625854, Category Loss: 1.9916266202926636, Sentiment Loss: 0.6929385662078857
+INFO:root:Category Accuracy: 57.70%, Sentiment Accuracy: 69.21%
+INFO:root:Iteration 55, Loss: 1.1129722595214844, Category Loss: 1.219900131225586, Sentiment Loss: 0.8634741902351379
+INFO:root:Category Accuracy: 58.24%, Sentiment Accuracy: 69.03%
+INFO:root:Iteration 56, Loss: 0.9701343178749084, Category Loss: 1.1536083221435547, Sentiment Loss: 0.5420283079147339
+INFO:root:Category Accuracy: 58.76%, Sentiment Accuracy: 69.31%
+INFO:root:Iteration 57, Loss: 1.0717852115631104, Category Loss: 1.2014615535736084, Sentiment Loss: 0.7692070603370667
+INFO:root:Category Accuracy: 59.38%, Sentiment Accuracy: 69.30%
+INFO:root:Iteration 58, Loss: 1.056199312210083, Category Loss: 1.0718530416488647, Sentiment Loss: 1.0196737051010132
+INFO:root:Category Accuracy: 59.91%, Sentiment Accuracy: 69.02%
+INFO:root:Iteration 59, Loss: 1.3550437688827515, Category Loss: 1.6272847652435303, Sentiment Loss: 0.7198147177696228
+INFO:root:Category Accuracy: 60.28%, Sentiment Accuracy: 69.01%
+INFO:root:Iteration 60, Loss: 0.9268215894699097, Category Loss: 1.0402936935424805, Sentiment Loss: 0.6620532870292664
+INFO:root:Category Accuracy: 60.73%, Sentiment Accuracy: 69.11%
