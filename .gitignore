@@ -1,0 +1,7 @@
+.venv/
+.env
+reduce.py
+__pycache__
+.git
+.dockerignore
+training_log.txt

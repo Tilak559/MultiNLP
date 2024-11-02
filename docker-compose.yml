@@ -1,0 +1,19 @@
+version: '3.8'  # Version of Docker Compose syntax
+
+services:
+  multinlp:
+    build:
+      context: .  # The context is the current directory where your Dockerfile is located
+      dockerfile: Dockerfile
+    container_name: multinlp_container
+    environment:
+      - CUDA_VISIBLE_DEVICES=""  # Force CPU-only for PyTorch
+      - PYTHONUNBUFFERED=1       # Disable Python output buffering for real-time logs
+    command: ["python", "src/main.py"]
+    volumes:
+      - ./output.log:/app/output.log
+    mem_limit: 8g  # Increase memory limit
+    # cpus: 1.0     # Remove CPU limit for testing
+
+    # Optional: Remove restart policy temporarily for debugging
+    # restart: unless-stopped
