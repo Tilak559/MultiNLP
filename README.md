@@ -145,10 +145,3 @@ optimizer = torch.optim.Adam(model.parameters(), lr=1e-5)  # Adjust learning rat
 - **Transformers Library**: [Hugging Face Transformers](https://github.com/huggingface/transformers) for pre-trained models and tokenizers.
 - **Yelp Dataset**: [Yelp Open Dataset](https://www.yelp.com/dataset) for review and business data.
 
----
-
-Enjoy experimenting with the MultiNLP project! If you encounter issues, feel free to create an issue or reach out for help.
-
---- 
-
-This `README.md` provides clear instructions for both Docker and non-Docker setups, covering everything from installation to running the application. Let me know if you'd like further customization!
