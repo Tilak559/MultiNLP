@@ -1,4 +1,4 @@
-# MultiNLP
+# Building a Multi-Task NLP Model for Real-World Applications
 
 MultiNLP is a multi-task learning project focused on classifying Yelp business reviews into broader categories and analyzing their sentiment. It utilizes a transformer-based model for text classification and sentiment analysis.
 
