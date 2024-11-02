@@ -140,6 +140,10 @@ Hyperparameters such as learning rate, batch size, and the number of training it
 optimizer = torch.optim.Adam(model.parameters(), lr=1e-5)  # Adjust learning rate here
 ```
 
+## Blog
+
+[Building a Multi-Task NLP Model for Real-World Applications](https://medium.com/@tilak559/building-a-multi-task-nlp-model-for-real-world-applications-95d6b5dd1d17)
+
 ## Acknowledgments
 
 - **Transformers Library**: [Hugging Face Transformers](https://github.com/huggingface/transformers) for pre-trained models and tokenizers.
